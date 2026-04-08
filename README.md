@@ -1,3 +1,7 @@
+# Preview
+Keyboard preview 
+<img width="1366" height="509" alt="Screenshot_2026-04-08_19-58-36" src="https://github.com/user-attachments/assets/4ee869ad-c591-4e40-917b-cb66b5215505" />
+
 # CSS Keyboard
 A fully styled mechanical keyboard built using only HTML and CSS.
 
