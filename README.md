@@ -7,6 +7,11 @@ A fully styled mechanical keyboard built using only HTML and CSS.
 - Dark themed keys with gradient and shadow effects
 - Mac-style modifier keys (⌘, ⌥, fn)
 
+## How to Run
+1. Clone the repo
+   git clone https://github.com/username/css-keyboard.git
+2. Open index.html in any browser
+
 ## Tech Stack
 - HTML5
 - CSS3 (Flexbox, nested selectors, transitions)
